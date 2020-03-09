@@ -1,0 +1,25 @@
+We use the selector of the component to show it in a HTML page
+
+most important file => app.module.ts
+
+ModuleComponent bootstraps our AppComponent
+
+bootstrap our angular component => AppComponent
+
+Since angular code is written in TypeScript, components need to have a decorator with configurations to give them angular features
+
+The AppComponent provided data to the view by providing it in the HTML with interpolation
+
+interpolation {{}}: data is provided by the ts class.
+
+Use the selector to show the data of the component to the view
+
+Extensions installed:
+
+Brackets Pair Colorizer - Angular files - Angular Language - Auto Rename Tag - tslint - angular2-switcher
+
+the constructor is first. Too early to make a http request
+
+Observable: stream a data that we get from the API. we need to subscribe to observable to get his content out
+
+if using bootstrap, we have to add the boostrap style. Add it in the styles.css to be accessible everywhere.
